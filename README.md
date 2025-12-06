@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .EARTH one-word domains still available to buy.
 
-This dataset contains 3,231 .EARTH one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,225 .EARTH one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.EARTH one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=earth-oneword-domains&utm_content=description.top) (3,231) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.EARTH one word domain
 
 | Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.earth        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.earth        | premium   | 70       | 38%    | 3      |           |         |         |
 | abactinal.earth  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.earth      | available | 43       | 2%     | 5      |           |         |         |
 | abashed.earth    | available | 60       | 2%     | 7      |           |         |         |

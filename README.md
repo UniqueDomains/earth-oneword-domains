@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.EARTH one word domain
 | abhorrent.earth  | available | 54       | 1%     | 9      |           |         |         |
 | abiding.earth    | available | 106      | 5%     | 7      |           |         |         |
 | abient.earth     | available | 54       | 1%     | 6      |           |         |         |
-| abit.earth       | available | 66       | 12%    | 5      |           |         |         |
+| abit.earth       | available | 68       | 12%    | 5      |           |         |         |
 | abject.earth     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.earth     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.earth  | available | 78       | 1%     | 9      |           |         |         |
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [.EARTH one word domain
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,756       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 63,843       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,573    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,719       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 64,044       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,599,086    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |

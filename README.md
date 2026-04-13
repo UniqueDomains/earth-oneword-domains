@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .earth one-word domains from Uniqu
 
 **Public extract:** 6,489 rows · **Live catalog:** 6,489 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/earth`  
 **Best for:** founders, investors, studios
 
@@ -80,7 +80,7 @@ print(df.head())
 | arm.earth        | resell    | —         | —             | 86             | 53     | 3      | GoDaddy.com, LLC                                          |
 | air.earth        | premium   | $325      | $325          | 84             | 36     | 3      | namecheap                                                 |
 | nimble.earth     | available | $22.99    | $27.99        | 94             | 33     | 6      | name.com                                                  |
-| best.earth       | resell    | —         | —             | 82             | 53     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| best.earth       | resell    | —         | —             | 82             | 52     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | fitness.earth    | premium   | $156      | $156          | 78             | 36     | 7      | namecheap                                                 |
 | aesthetic.earth  | available | $22.99    | $27.99        | 88             | 31     | 9      | name.com                                                  |
 | big.earth        | resell    | —         | —             | 88             | 47     | 3      | Porkbun                                                   |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EARTH One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EARTH One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -681,6 +681,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4b0d182e-62dc-4127-a65f-9abdaef64bc7,thereandback.earth,available,22.99,,44,4,14,name.com,,
 4b6a4334-95cd-4be7-8b20-ac8fc32aaef4,backstretch.earth,available,22.99,,74,3,12,name.com,,
 4b94fac5-7011-4734-bd1f-bbfeebdf1c8b,parishes.earth,available,22.99,,51,3,8,name.com,,
+4b976411-4dfc-458d-81bc-f1cd0fca7eb4,UnitedStates.earth,premium,5922.5,,66,96,13,name.com,,
 4ba3ee78-44c8-47a4-8dd4-23c56b15abc7,nailed.earth,available,22.99,,58,6,6,name.com,,
 4bb2b5c0-7a12-480e-a4cc-db40ddc07f38,PopeGregoryI.earth,available,27.98,,28,1,14,namecheap,,
 4bc987f8-3c3a-4a58-bca8-720d171259e6,wastes.earth,available,22.99,,50,4,6,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6dac8329-bc6c-45f9-aa35-479d40717c41,inthisinstance.earth,available,22.99,,44,1,16,name.com,,
 6db42939-1a98-4482-8571-ba94bd7ac7fe,HarryPotter.earth,available,27.98,,72,20,12,namecheap,,
 6dea4562-2218-40e7-9013-5dec55be4d52,mistakenidentity.earth,available,22.99,,52,2,17,name.com,,
-6e273274-9b8b-44e6-8d8b-416251118320,bedamned.earth,available,22.99,,38,1,9,name.com,,

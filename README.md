@@ -1,10 +1,10 @@
-# Available .EARTH One-Word Domains (8,858)
+# Available .EARTH One-Word Domains (8,859)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C858%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C859%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .earth one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,858 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **8,859 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 8,858 domains · **Median ask:** $70.62 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 8,859 domains · **Median ask:** $72.82 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/tld/earth`  
 **Best for:** founders, investors, studios
 
@@ -66,23 +66,23 @@ print(df.head())
 | ------------------ | --------- | ----------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | IsleofMan.earth    | available | $27.98      | —             | 62             | 91     | 11     | namecheap        |
 | equipped.earth     | resell    | —           | —             | 72             | 9      | 8      | GoDaddy.com, LLC |
-| platform.earth     | premium   | $100,682.50 | —             | 78             | 47     | 8      | Dynadot Inc      |
+| UnitedStates.earth | premium   | $5,922.50   | —             | 66             | 96     | 13     | name.com         |
 | has.earth          | available | $22.99      | —             | 60             | 26     | 3      | name.com         |
-| awesome.earth      | premium   | $2,367.82   | —             | 84             | 45     | 7      | 1API GmbH        |
+| platform.earth     | premium   | $100,682.50 | —             | 78             | 47     | 8      | Dynadot Inc      |
 | Keith.earth        | available | $27.98      | —             | 66             | 25     | 5      | namecheap        |
-| SanDiego.earth     | premium   | $150        | —             | 74             | 29     | 9      | name.com         |
+| awesome.earth      | premium   | $2,367.82   | —             | 84             | 45     | 7      | 1API GmbH        |
 | rekt.earth         | available | $22.99      | —             | 40             | 24     | 4      | name.com         |
-| children.earth     | premium   | $150        | —             | 68             | 21     | 8      | name.com         |
+| SanDiego.earth     | premium   | $150        | —             | 74             | 29     | 9      | name.com         |
 | motorsport.earth   | available | $22.99      | —             | 74             | 23     | 10     | name.com         |
-| mathematics.earth  | premium   | $75         | —             | 68             | 19     | 11     | name.com         |
+| children.earth     | premium   | $150        | —             | 68             | 21     | 8      | name.com         |
 | inhouse.earth      | available | $22.99      | —             | 70             | 23     | 8      | name.com         |
-| grains.earth       | premium   | $75         | —             | 78             | 17     | 6      | name.com         |
+| mathematics.earth  | premium   | $75         | —             | 68             | 19     | 11     | name.com         |
 | pls.earth          | available | $22.99      | —             | 60             | 23     | 3      | name.com         |
-| publichealth.earth | premium   | $31.25      | —             | 72             | 13     | 13     | name.com         |
+| grains.earth       | premium   | $75         | —             | 78             | 17     | 6      | name.com         |
 | webshop.earth      | available | $22.99      | —             | 76             | 22     | 8      | name.com         |
-| Vehicles.earth     | premium   | $84         | $84           | 49             | 13     | 8      | namecheap        |
+| publichealth.earth | premium   | $31.25      | —             | 72             | 13     | 13     | name.com         |
 | Allie.earth        | available | $27.98      | —             | 72             | 21     | 5      | namecheap        |
-| volunteers.earth   | premium   | $75         | —             | 62             | 12     | 10     | name.com         |
+| Vehicles.earth     | premium   | $84         | $84           | 49             | 13     | 8      | namecheap        |
 | wins.earth         | available | $22.99      | —             | 68             | 21     | 4      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 8,858 live domains                         |
+| 1,000-row public sample | 8,859 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EARTH One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EARTH One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .earth one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 8,860 domains · **Median ask:** $72.82 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/earth`  
 **Best for:** founders, investors, studios
 
@@ -74,7 +74,7 @@ print(df.head())
 | rekt.earth         | available | $22.99      | —             | 40             | 24     | 4      | name.com         |
 | SanDiego.earth     | premium   | $150        | —             | 74             | 29     | 9      | name.com         |
 | motorsport.earth   | available | $22.99      | —             | 74             | 23     | 10     | name.com         |
-| children.earth     | premium   | $150        | —             | 68             | 21     | 8      | name.com         |
+| children.earth     | premium   | $150        | —             | 68             | 19     | 8      | name.com         |
 | inhouse.earth      | available | $22.99      | —             | 70             | 23     | 8      | name.com         |
 | mathematics.earth  | premium   | $75         | —             | 68             | 19     | 11     | name.com         |
 | pls.earth          | available | $22.99      | —             | 60             | 23     | 3      | name.com         |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EARTH One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EARTH One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

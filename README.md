@@ -1,10 +1,10 @@
-# Available .EARTH One-Word Domains (8,861)
+# Available .EARTH One-Word Domains (8,863)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C861%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C863%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .earth one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,861 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **8,863 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 8,861 domains · **Median ask:** $72.82 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 8,863 domains · **Median ask:** $36.48 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/earth`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/earth`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .EARTH one-word domain
 
 ### Files
 
-- `earth.csv` — public CSV extract (1,000 rows)
-- `earth.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `earth.csv`, public CSV extract (1,000 rows)
+- `earth.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | ----------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| IsleofMan.earth    | available | $27.98      | —             | 62             | 91     | 11     | namecheap        |
-| equipped.earth     | resell    | —           | —             | 72             | 9      | 8      | GoDaddy.com, LLC |
-| UnitedStates.earth | premium   | $5,922.50   | —             | 66             | 96     | 13     | name.com         |
-| has.earth          | available | $22.99      | —             | 60             | 26     | 3      | name.com         |
-| platform.earth     | premium   | $100,682.50 | —             | 78             | 47     | 8      | Dynadot Inc      |
-| Keith.earth        | available | $27.98      | —             | 66             | 25     | 5      | namecheap        |
-| awesome.earth      | premium   | $2,367.82   | —             | 84             | 45     | 7      | 1API GmbH        |
-| inhouse.earth      | available | $22.99      | —             | 70             | 24     | 8      | name.com         |
-| SanDiego.earth     | premium   | $150        | —             | 74             | 29     | 9      | name.com         |
-| rekt.earth         | available | $22.99      | —             | 40             | 24     | 4      | name.com         |
-| children.earth     | premium   | $150        | —             | 68             | 19     | 8      | name.com         |
-| motorsport.earth   | available | $22.99      | —             | 74             | 23     | 10     | name.com         |
-| mathematics.earth  | premium   | $75         | —             | 68             | 19     | 11     | name.com         |
-| pls.earth          | available | $22.99      | —             | 60             | 23     | 3      | name.com         |
-| publichealth.earth | premium   | $31.25      | —             | 72             | 13     | 13     | name.com         |
-| webshop.earth      | available | $22.99      | —             | 76             | 22     | 8      | name.com         |
-| Vehicles.earth     | premium   | $84         | $84           | 49             | 13     | 8      | namecheap        |
-| Allie.earth        | available | $27.98      | —             | 72             | 21     | 5      | namecheap        |
-| grains.earth       | premium   | $75         | —             | 78             | 12     | 6      | name.com         |
-| wins.earth         | available | $22.99      | —             | 68             | 21     | 4      | name.com         |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| granny.earth | available | $22.99    | —             | high           | low    | 6      | name.com         |
+| yellow.earth | resell    | —         | —             | high           | low    | 6      | Porkbun          |
+| equal.earth  | premium   | $75       | $75           | high           | low    | 5      | name.com         |
+| cot.earth    | available | $6.75     | $18.99        | high           | low    | 3      | namesilo         |
+| arm.earth    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| led.earth    | premium   | $71.40    | $71.40        | high           | low    | 3      | namesilo         |
+| cue.earth    | available | $22.99    | —             | medium         | low    | 3      | name.com         |
+| dog.earth    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| ted.earth    | premium   | $75       | —             | high           | low    | 3      | name.com         |
+| des.earth    | available | $6.75     | $18.99        | high           | low    | 3      | namesilo         |
+| halo.earth   | resell    | —         | —             | high           | medium | 4      | Porkbun          |
+| acne.earth   | premium   | $150      | —             | medium         | low    | 4      | name.com         |
+| ive.earth    | available | $6.75     | $18.99        | medium         | low    | 3      | namesilo         |
+| pink.earth   | resell    | —         | —             | high           | low    | 4      | Porkbun          |
+| lap.earth    | available | $6.75     | $18.99        | high           | low    | 3      | namesilo         |
+| Tahoe.earth  | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC |
+| obese.earth  | premium   | $75       | $75           | high           | low    | 5      | name.com         |
+| nan.earth    | available | $22.99    | —             | high           | low    | 3      | name.com         |
+| metric.earth | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
+| usage.earth  | premium   | $31.25    | $31.25        | high           | low    | 5      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 8,861 live domains                         |
+| 1,000-row public sample | 8,863 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all in the .earth extension, which makes the ending part of the message. That can work well when the word and extension reinforce each other, as in boat.earth, veg.earth, yellow.earth, or altered.earth. It is less convincing when the phrase feels random, overly long, or hard to repeat, such as leavethedooropen.earth. For founders, the main question is whether the full name is memorable and credible enough to build on. For investors, the key is whether the word is simple, category-relevant, and priced low enough to leave room for resale relative to a median ask of 70.62.
+This list covers one-word .earth domains—single-term names built around everyday vocabulary rather than a single industry. With 8,863 names tracked and a median ask near $36, the set spans playful, direct, and globally-toned words like hello.earth, room.earth, brief.earth, and time.earth. The .earth extension carries an environmental, global connotation, making these names a fit for climate, sustainability, travel, or planet-scale branding, while still working as generic one-word picks for other projects. Because pricing and availability shift daily, treat each listing's ask as a snapshot rather than a fixed price.
 
-- Prefer words that read naturally with .earth
-- Short names usually beat long phrase domains
-- Use price discipline around the 70.62 median ask
-- Check for trademark risk on distinctive terms
+- 8,863 one-word .earth domains tracked in this set
+- Median ask near $36 across the full list
+- Short, brandable words like hello.earth and room.earth
+- Eco-toned .earth extension fits sustainability and global brands
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EARTH One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EARTH One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

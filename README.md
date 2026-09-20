@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .earth one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,750 domains · **Median ask:** $24.43 · **High-demand under $2,500:** 10
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/earth`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| ain.earth    | available | $18.99    | $18.99        | low            | low    | 3      | namesilo         |
-| arm.earth    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
-| led.earth    | premium   | $71.40    | $71.40        | high           | low    | 3      | namesilo         |
-| cot.earth    | available | $6.75     | $18.99        | high           | low    | 3      | namesilo         |
-| dog.earth    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| ted.earth    | premium   | $75       | —             | high           | low    | 3      | name.com         |
-| cue.earth    | available | $22.99    | —             | medium         | low    | 3      | name.com         |
-| halo.earth   | resell    | —         | —             | high           | medium | 4      | Porkbun          |
-| acne.earth   | premium   | $150      | —             | medium         | low    | 4      | name.com         |
-| cxl.earth    | available | $18.99    | $18.99        | low            | low    | 3      | namesilo         |
-| pink.earth   | resell    | —         | —             | high           | low    | 4      | Porkbun          |
-| equal.earth  | premium   | $75       | $75           | high           | low    | 5      | name.com         |
-| des.earth    | available | $6.75     | $18.99        | high           | low    | 3      | namesilo         |
-| Tahoe.earth  | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC |
-| obese.earth  | premium   | $75       | $75           | high           | low    | 5      | name.com         |
-| ive.earth    | available | $6.75     | $18.99        | medium         | low    | 3      | namesilo         |
-| metric.earth | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
-| usage.earth  | premium   | $31.25    | $31.25        | high           | low    | 5      | name.com         |
-| lap.earth    | available | $6.75     | $18.99        | high           | low    | 3      | namesilo         |
-| mister.earth | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| granny.earth      | available | $22.99    | —             | high           | low    | 6      | name.com         |
+| yellow.earth      | resell    | —         | —             | high           | low    | 6      | Porkbun          |
+| equal.earth       | premium   | $75       | $75           | high           | low    | 5      | name.com         |
+| lightweight.earth | available | $6.75     | $18.99        | high           | low    | 11     | namesilo         |
+| ain.earth         | available | $18.99    | $18.99        | low            | low    | 3      | namesilo         |
+| arm.earth         | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| led.earth         | premium   | $71.40    | $71.40        | high           | low    | 3      | namesilo         |
+| cot.earth         | available | $6.75     | $18.99        | high           | low    | 3      | namesilo         |
+| dog.earth         | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| ted.earth         | premium   | $75       | —             | high           | low    | 3      | name.com         |
+| cue.earth         | available | $22.99    | —             | medium         | low    | 3      | name.com         |
+| halo.earth        | resell    | —         | —             | high           | medium | 4      | Porkbun          |
+| acne.earth        | premium   | $150      | —             | medium         | low    | 4      | name.com         |
+| cxl.earth         | available | $18.99    | $18.99        | low            | low    | 3      | namesilo         |
+| pink.earth        | resell    | —         | —             | high           | low    | 4      | Porkbun          |
+| des.earth         | available | $6.75     | $18.99        | high           | low    | 3      | namesilo         |
+| tahoe.earth       | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC |
+| obese.earth       | premium   | $75       | $75           | high           | low    | 5      | name.com         |
+| ive.earth         | available | $6.75     | $18.99        | medium         | low    | 3      | namesilo         |
+| metric.earth      | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EARTH One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EARTH One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

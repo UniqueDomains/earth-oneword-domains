@@ -1,10 +1,10 @@
-# Available .EARTH One-Word Domains (26,489)
+# Available .EARTH One-Word Domains (17,006)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C489%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C006%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .earth one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **26,489 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **17,006 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 26,489 domains · **Median ask:** $23.77 · **High-demand under $2,500:** 8
+**Public extract:** 1,000 rows · **Live catalog:** 17,006 domains · **Median ask:** $21.97 · **High-demand under $2,500:** 13
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/earth`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| ain.earth  | available | $18.99    | $18.99        | high           | low    | 3      | namesilo         |
-| arm.earth  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
-| aaa.earth  | premium   | $78       | $78           | high           | medium | 3      | namecheap        |
-| bjp.earth  | available | $22.99    | —             | high           | low    | 3      | name.com         |
-| dog.earth  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| dvd.earth  | premium   | $71.40    | $71.40        | high           | low    | 3      | namesilo         |
-| clv.earth  | available | $18.99    | $18.99        | high           | low    | 3      | namesilo         |
-| gym.earth  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 5 |
-| ing.earth  | premium   | $71.40    | $71.40        | high           | low    | 3      | namesilo         |
-| cot.earth  | available | $6.75     | $18.99        | high           | low    | 3      | namesilo         |
-| lit.earth  | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.  |
-| led.earth  | premium   | $71.40    | $71.40        | high           | low    | 3      | namesilo         |
-| cue.earth  | available | $22.99    | —             | high           | low    | 3      | name.com         |
-| man.earth  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| ted.earth  | premium   | $75       | —             | high           | low    | 3      | name.com         |
-| cxl.earth  | available | $18.99    | $18.99        | high           | low    | 3      | namesilo         |
-| halo.earth | resell    | —         | —             | high           | medium | 4      | Porkbun          |
-| yes.earth  | premium   | $156      | $156          | high           | medium | 3      | namecheap        |
-| des.earth  | available | $6.75     | $18.99        | high           | low    | 3      | namesilo         |
-| pink.earth | resell    | —         | —             | high           | low    | 4      | Porkbun          |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| soul.earth        | resell    | $2,643.80 | —             | high           | medium | 4      | name.com         |
+| marine.earth      | premium   | $150      | $150          | high           | low    | 6      | name.com         |
+| starter.earth     | available | $19.98    | $27.98        | high           | low    | 7      | namecheap        |
+| time.earth        | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| metric.earth      | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
+| composite.earth   | available | $19.98    | $27.98        | high           | low    | 9      | namecheap        |
+| progressive.earth | premium   | $153.60   | $153.60       | high           | low    | 11     | namesilo         |
+| central.earth     | available | $18.99    | $18.99        | high           | low    | 7      | namesilo         |
+| driving.earth     | available | $18.99    | $18.99        | high           | low    | 7      | namesilo         |
+| stem.earth        | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| affluent.earth    | available | $18.99    | $18.99        | high           | low    | 8      | namesilo         |
+| ain.earth         | available | $18.99    | $18.99        | high           | low    | 3      | namesilo         |
+| acts.earth        | premium   | $6.75     | $18.99        | high           | low    | 4      | namesilo         |
+| baa.earth         | available | $18.99    | $18.99        | high           | low    | 3      | namesilo         |
+| staff.earth       | resell    | $6.75     | $18.99        | high           | low    | 5      | Porkbun          |
+| abuse.earth       | premium   | $153.60   | $153.60       | high           | low    | 5      | namesilo         |
+| bja.earth         | available | $18.99    | $18.99        | medium         | low    | 3      | namesilo         |
+| rain.earth        | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| audio.earth       | premium   | $150      | —             | high           | low    | 5      | name.com         |
+| bph.earth         | available | $18.99    | $18.99        | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 26,489 live domains                        |
+| 1,000-row public sample | 17,006 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 8 high-demand names under $2,500           |
+| Basic exported fields   | 13 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EARTH One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EARTH One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

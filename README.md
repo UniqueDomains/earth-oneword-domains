@@ -1,10 +1,10 @@
-# Available .EARTH One-Word Domains (17,464)
+# Available .EARTH One-Word Domains (17,767)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C464%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C767%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .earth one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **17,464 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **17,767 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 17,464 domains · **Median ask:** $21.58 · **High-demand under $2,500:** 13
+**Public extract:** 1,000 rows · **Live catalog:** 17,767 domains · **Median ask:** $21.61 · **High-demand under $2,500:** 14
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/earth`
@@ -81,9 +81,9 @@ print(df.head())
 | progressive.earth | premium   | $153.60   | $153.60       | high           | low    | 11     | namesilo         |
 | central.earth     | available | $18.99    | $18.99        | high           | low    | 7      | namesilo         |
 | driving.earth     | available | $18.99    | $18.99        | high           | low    | 7      | namesilo         |
-| affluent.earth    | available | $18.99    | $18.99        | high           | low    | 8      | namesilo         |
 | ain.earth         | available | $18.99    | $18.99        | high           | low    | 3      | namesilo         |
-| acts.earth        | premium   | $6.75     | $18.99        | high           | low    | 4      | namesilo         |
+| rio.earth         | premium   | $512      | $512          | high           | low    | 3      | namesilo         |
+| baa.earth         | available | $18.99    | $18.99        | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 17,464 live domains                        |
+| 1,000-row public sample | 17,767 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 13 high-demand names under $2,500          |
+| Basic exported fields   | 14 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 

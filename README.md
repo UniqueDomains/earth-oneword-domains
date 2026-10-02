@@ -1,10 +1,10 @@
-# Available .EARTH One-Word Domains (22,649)
+# Available .EARTH One-Word Domains (23,930)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C649%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C930%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .earth one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,649 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,930 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,649 domains · **Median ask:** $21.15 · **High-demand under $2,500:** 25
+**Public extract:** 1,000 rows · **Live catalog:** 23,930 domains · **Median ask:** $21.16 · **High-demand under $2,500:** 27
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/earth`
 **Best for:** founders, investors, studios
 
@@ -64,24 +64,24 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| aye.earth        | available | $15.96    | $15.96        | medium         | low    | 3      | porkbun          |
+| afs.earth        | available | $18.99    | $18.99        | high           | low    | 3      | namesilo         |
 | staff.earth      | resell    | $6.75     | $18.99        | high           | low    | 5      | Porkbun          |
+| mbc.earth        | premium   | $78       | $78           | high           | low    | 3      | namecheap        |
+| aye.earth        | available | $15.96    | $15.96        | medium         | low    | 3      | porkbun          |
+| rain.earth       | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
 | abuse.earth      | premium   | $153.60   | $153.60       | high           | low    | 5      | namesilo         |
 | baa.earth        | available | $18.99    | $18.99        | high           | low    | 3      | namesilo         |
-| rain.earth       | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| intact.earth     | resell    | —         | —             | high           | low    | 6      | Porkbun          |
 | audio.earth      | premium   | $153.60   | $153.60       | high           | low    | 5      | namesilo         |
 | bhp.earth        | available | $16.27    | $16.27        | high           | low    | 3      | dynadot          |
-| intact.earth     | resell    | —         | —             | high           | low    | 6      | Porkbun          |
+| metric.earth     | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
 | gives.earth      | premium   | $29.50    | $29.50        | medium         | low    | 5      | namesilo         |
 | bmt.earth        | available | $15.96    | $15.96        | high           | low    | 3      | porkbun          |
-| metric.earth     | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
+| search.earth     | resell    | —         | —             | high           | medium | 6      | NameCheap, Inc.  |
 | karin.earth      | premium   | $29.50    | $29.50        | medium         | low    | 5      | namesilo         |
 | chr.earth        | available | $18.99    | $18.99        | medium         | low    | 3      | namesilo         |
-| search.earth     | resell    | —         | —             | high           | medium | 6      | NameCheap, Inc.  |
-| rocky.earth      | premium   | $71.40    | $71.40        | high           | low    | 5      | namesilo         |
-| csf.earth        | available | $18.99    | $18.99        | medium         | low    | 3      | namesilo         |
 | grounding.earth  | resell    | —         | —             | high           | low    | 9      | —                |
-| beagle.earth     | premium   | $78       | $78           | high           | low    | 6      | namecheap        |
+| rocky.earth      | premium   | $71.40    | $71.40        | high           | low    | 5      | namesilo         |
 | cxl.earth        | available | $18.99    | $18.99        | high           | low    | 3      | namesilo         |
 | artificial.earth | resell    | —         | —             | high           | low    | 10     | Porkbun          |
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,649 live domains                        |
+| 1,000-row public sample | 23,930 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 25 high-demand names under $2,500          |
+| Basic exported fields   | 27 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EARTH One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EARTH One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
